@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Data Scientist | Data Analyst | Passionate about building Machine models that fix problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shu8bham-k&label=Profile%20views&color=0e75b6&style=flat" alt="shu8bham-k" /> </p>
 
