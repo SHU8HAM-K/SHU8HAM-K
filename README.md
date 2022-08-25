@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height="150" width="2000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLkUaUQuq85VCJ3HozZDhNwefTZUECyj9w&usqp=CAU">
+<img align="center" alt="Coding" height="100" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLkUaUQuq85VCJ3HozZDhNwefTZUECyj9w&usqp=CAU">
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <h3 align="center">Data Scientist | Data Analyst | Passionate about building Machine models that fix problems.</h3>
