@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shub.dev.voyage](https://shub.dev.voyage)
 
-- 💬 Ask me about **Machine Learning, Python, Tableau, SQL**
+- 💬 Ask me about **Machine Learning, Python, Tableau, SQL, Excel**
 
 - 📫 How to reach me **7398259289sk@gmail.com**
 
