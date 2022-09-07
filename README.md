@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **7398259289sk@gmail.com**
 
-- 📄 Know about by my CV [https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing](https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing)
+- 📄 Know about me by CV [https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing](https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
