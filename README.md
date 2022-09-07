@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<h3 align="center">Data Scientist | Data Analyst | Passionate about building Machine models that fix problems.</h3>
+<h3 align="center">Data Scientist | Passionate about building Machine models that fix problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shu8bham-k&label=Profile%20views&color=0e75b6&style=flat" alt="shu8bham-k" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **7398259289sk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing](https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing)
+- 📄 Know about by my CV [https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing](https://drive.google.com/file/d/1M89BrUt2Kf1ZuAa5ROqlcxZnwJi3e9XI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
